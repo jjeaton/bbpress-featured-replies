@@ -1,4 +1,4 @@
-# Featured Comments #
+# bbPress - Featured Replies #
 
 Contributors: jjeaton  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B6TUZ3N8QX6AN  
