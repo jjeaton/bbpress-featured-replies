@@ -1,4 +1,5 @@
-=== Featured Comments ===
+# Featured Comments #
+
 Contributors: jjeaton  
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B6TUZ3N8QX6AN  
 Tags: bbpress, featured replies, replies, featured  
@@ -10,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Lets the admin add "featured" or "buried" css class to selected bbPress replies. Handy to highlight replies that add value to the topic. Also includes a widget for showing recently featured replies.
 
-== Description ==
+## Description ##
 
 Lets the admin add "featured" or "buried" css class to selected bbPress replies. Handy to highlight notable replies or bury "Thanks/me too" and other useless responses. The plugin also gives the user that started the topic the capability to choose featured/buried replies.
 
@@ -18,17 +19,18 @@ This plugin is based on [Featured Comments](https://wordpress.org/plugins/featur
 
 Please report bugs and suggestions on [Github](https://github.com/jjeaton/bbpress-featured-replies).
 
-== Installation ==
+
+## Installation ##
 
 1. Upload 'bbpress-featured-replies' directory to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-== Screenshots ==
+## Screenshots ##
 
-== Changelog ==
+## Changelog ##
 
-= 0.1.0 =
+### 0.1.0 ###
 
 * Initial release
 
-== Upgrade Notice ==
+## Upgrade Notice ##
