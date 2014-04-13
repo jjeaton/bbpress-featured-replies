@@ -19,6 +19,7 @@ This plugin is based on [Featured Comments](https://wordpress.org/plugins/featur
 
 Please report bugs and suggestions on [Github](https://github.com/jjeaton/bbpress-featured-replies).
 
+*Thanks to [Chris Coyier](http://css-tricks.com/) for the concept and for funding development.*
 
 ## Installation ##
 
