@@ -9,11 +9,11 @@ Stable tag: 0.1.0
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
-Lets the admin add "featured" or "buried" css class to selected bbPress replies. Handy to highlight replies that add value to the topic. Also includes a widget for showing recently featured replies.
+Lets the admin add "featured" or "buried" css class to selected bbPress replies.
 
 ## Description ##
 
-Lets the admin add "featured" or "buried" css class to selected bbPress replies. Handy to highlight notable replies or bury "Thanks/me too" and other useless responses. The plugin also gives the user that started the topic the capability to choose featured/buried replies.
+Lets the admin add "featured" or "buried" css class to selected bbPress replies. Handy to highlight notable replies or bury "Thanks/me too" and other useless responses. The plugin also gives the user that started the topic the capability to choose featured/buried replies. Also includes a widget for showing recently featured replies.
 
 This plugin is based on [Featured Comments](https://wordpress.org/plugins/feature-comments/) by Pippin Williamson.
 
