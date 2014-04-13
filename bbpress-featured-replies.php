@@ -2,7 +2,7 @@
 /*
  * Plugin Name: bbPress - Featured Replies
  * Plugin URI: http://www.josheaton.org/wordpress-plugins/bbpress-featured-replies
- * Description: Lets the admin add "featured" or "buried" css class to selected bbPress replies. Handy to highlight replies that add value to the topic. Also includes a Featured Replies widget
+ * Description: Lets the admin add "featured" or "buried" css class to selected bbPress replies. Handy to highlight replies that add value to the topic. Also includes a Featured Replies widget.
  * Version: 0.1.0
  * Author: Josh Eaton
  * Author URI: http://www.josheaton.org/
