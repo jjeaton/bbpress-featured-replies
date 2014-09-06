@@ -233,7 +233,7 @@ final class Featured_Replies {
 
 	public function ajax() {
 
-		if ( !isset( $_POST['do'] ) ) {
+		if ( ! isset( $_POST['do'] ) ) {
 			die();
 		}
 
@@ -245,8 +245,13 @@ final class Featured_Replies {
 
 			$reply_id = absint( $_POST['reply_id'] );
 
-			// Verify reply exists and whether user has the capability to moderate it
-			if ( ! $reply = bbp_get_reply( $reply_id ) || ! current_user_can( 'feature_replies', $reply_id ) ) {
+			// Verify reply exists
+			if ( ! $reply = bbp_get_reply( $reply_id ) ) {
+				die();
+			}
+
+			// Verify whether user has the capability to moderate it
+			if ( ! current_user_can( 'feature_replies', $reply_id ) ) {
 				die();
 			}
 
